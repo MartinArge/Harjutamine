@@ -1,1 +1,2 @@
+GitHub'i kasutatakse projektide ühiskodeerimiseks. Seda kasutavad õpilased, õpetajad ja muud kes tunnevad huvi või parasjagu tegelevad mingi projektiga.
 Edaspidi kasutan GitHub'i töötamiseks/õppimiseks koos kursusekaaslastega. 
