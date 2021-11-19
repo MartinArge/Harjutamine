@@ -1,4 +1,6 @@
+
 GitHub'i kasutatakse projektide ühiskodeerimiseks. Seda kasutavad õpilased, õpetajad ja muud kes tunnevad huvi või parasjagu tegelevad mingi projektiga.
 Edaspidi kasutan GitHub'i töötamiseks/õppimiseks koos kursusekaaslastega. 
 GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007.
 Teenus on saadaval alates aastast 2008.
+
